@@ -1,4 +1,4 @@
-package com.vampir6307;
+package partone;
 
 public class PartOneTaskFour {
     //    Выведите на экран диапазоны значений каждого из целочисленных примитивных типов.

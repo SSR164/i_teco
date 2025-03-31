@@ -1,4 +1,4 @@
-package com.vampir6307;
+package partone;
 
 public class PartOneTaskThree {
 //    Поместите код ниже в метод main и закомментируй ненужные строки кода, чтобы на экран вывелась надпись:

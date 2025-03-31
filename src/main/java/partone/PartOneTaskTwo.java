@@ -1,4 +1,4 @@
-package com.vampir6307;
+package partone;
 
 public class PartOneTaskTwo {
     //    Напиши программу, которая в методе main объявляет такие переменные: count типа byte, age типа int и starts типа long.

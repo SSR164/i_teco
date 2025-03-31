@@ -1,4 +1,4 @@
-package com.vampir6307;
+package partone;
 
 public class PartOneTaskFive {
 //    Реализуйте все месяца года (январь, февраль ..) в рамках Java программы и напечатайте месяц своего рождения.
